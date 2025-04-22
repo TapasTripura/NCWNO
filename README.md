@@ -10,4 +10,6 @@ Neural Combinatorial Wavelet Neural Operator for catastrophic forgetting free in
 ## Simultaneously Predicting solutions of multiple PDEs using a Pre-Trained NCWNO.
   > 1D problems:
   ![Pre-training is done on a 256 spatial grid.](/media/Animation_NCWNO_256_1d.gif)
+  
+  > 2D problems:
   ![Pre-training is done on 64 x 64 spatial grid](/media/Animation_NCWNO_64_2d.gif)
