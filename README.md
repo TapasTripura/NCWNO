@@ -18,8 +18,8 @@ Neural Combinatorial Wavelet Neural Operator for catastrophic forgetting free in
   📂 1d continual learning          # Contains files of the 1d continual learning.
     |_📂 data                       # Folder for storing DATA and generating data.
       |_📁 model                    # Folder for storing trained models.
-        |_📄 'pre-trained model'               # location of model.
-      |_📄 'data file'                         # location of data.
+        |_📄 pre-trained model               # location of model.
+      |_📄 data file                         # location of data.
       |_📄 ...                     
     |_📁 results                               # location of results.
   📂 1d multiple learning           # Contains files of the 1d multiple physics training.
