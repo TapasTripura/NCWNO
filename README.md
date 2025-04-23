@@ -15,6 +15,7 @@ Neural Combinatorial Wavelet Neural Operator for catastrophic forgetting free in
   ![Pre-training is done on 64 x 64 spatial grid](/media/Animation_NCWNO_64_2d.gif)
 
 ## File description
+```
 📂 1d continual learning          # Contains files of the 1d continual learning.
   |_📂 data                       # Folder for storing DATA and generating data.
     |_📁 model                    # Folder for storing trained models.
@@ -34,6 +35,7 @@ Neural Combinatorial Wavelet Neural Operator for catastrophic forgetting free in
   |_📂 data                       
     |_📁 model                    
   |_📁 results                    
+```
 
 ## Essential Python Libraries
 Following packages are required to be installed to run the above codes:
