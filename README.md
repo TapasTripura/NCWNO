@@ -50,8 +50,3 @@ Following packages are required to be installed to run the above codes:
   + The testing datasets are available at the following link:
     > [Dataset](https://csciitd-my.sharepoint.com/:f:/g/personal/amz218313_iitd_ac_in/Ek5VwNvhbKhIjWR6L4SJvKUBqaPpQAj7akhWhpqt6Ucq-w?e=2Lwm1S)
   `The datasets must be placed inside the corresponding data folder`
-
-## Dataset
-  + The testing datasets are available at the following link:
-    > [Dataset](https://csciitd-my.sharepoint.com/:f:/g/personal/amz218313_iitd_ac_in/Ek5VwNvhbKhIjWR6L4SJvKUBqaPpQAj7akhWhpqt6Ucq-w?e=2Lwm1S)
-  `The models must be placed inside the corresponding data/model/ folder`
